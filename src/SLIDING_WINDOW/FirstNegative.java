@@ -1,7 +1,5 @@
 package SLIDING_WINDOW;
-
 import java.util.ArrayList;
-import java.util.Collection;
 
 public class FirstNegative {
     void main(){

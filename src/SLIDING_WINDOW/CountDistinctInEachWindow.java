@@ -1,9 +1,6 @@
 package SLIDING_WINDOW;
-
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.ArrayList;
-
 public class CountDistinctInEachWindow {
     void main(String[]args){
         HashMap<Integer,Integer> map = new HashMap<>();
